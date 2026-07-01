@@ -1,6 +1,6 @@
 [project]
 name = "test_lib_proj"
-version = "0.2.4"
+version = "0.2.5"
 description = "Подключаемый проект как библиотека uv"
 readme = "README.md"
 requires-python = ">=3.12"
