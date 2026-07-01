@@ -1,5 +1,5 @@
 def main():
-    print("Hello from test-lib-proj!")
+    print("Hello from test-lib-proj")
 
 def test_connection() -> str:
     """Функция для проверки успешного подключения библиотеки."""

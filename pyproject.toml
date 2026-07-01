@@ -1,5 +1,5 @@
 [project]
-name = "testlibproj"
+name = "test_lib_proj"
 version = "0.2.2"
 description = "Подключаемый проект как библиотека uv"
 readme = "README.md"
